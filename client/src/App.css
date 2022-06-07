@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&family=Bangers&family=Bungee+Shade&family=Coming+Soon&family=Covered+By+Your+Grace&family=Creepster&family=Cutive+Mono&family=Just+Another+Hand&family=Rajdhani&family=Raleway:wght@200;300&family=Red+Hat+Mono:ital,wght@1,300&family=Zen+Kaku+Gothic+Antique&display=swap');
+
 .App {
   text-align: center;
 }
@@ -20,3 +22,74 @@
 .App-link {
   color: #09d3ac;
 }
+.nav{
+  background-color: #06122a;
+  padding: 10px;
+  color: aliceblue;
+}
+.title{
+  font-family: 'Rajdhani', sans-serif;
+}
+.body{
+  background-color: #0a0f1896;
+  padding: 10px;
+  height: auto;
+  background-image: url("./17973908.jpg");
+  background-position: center;
+  background-size:cover;
+  font-family: 'Rajdhani', sans-serif;
+
+}
+.formForUpload{
+  margin: auto;
+  width: 90%;
+  padding: 20px;
+
+}
+.inputKey{
+  margin: 30px;
+  border:3px solid #061533;
+  width: 350px;
+  height: 30px;
+  background-color: transparent;
+  
+}
+.mainContainer{
+  background: rgba(204, 201, 220, 0.444);
+  border-radius: 10px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.2);
+  backdrop-filter: blur(4px);
+  -webkit-backdrop-filter: blur(5px);
+  width: 90%;
+  margin: auto;
+
+}
+
+.inputFile{
+  padding: 20px;
+
+}
+
+label{
+  font-family: 'Rajdhani', sans-serif;
+}
+
+.button{
+  padding: 10px;
+  background-color: #06122a;
+  color: white;
+  font-family: 'Rajdhani', sans-serif;
+  margin: 30px;
+  
+}
+.bottomConteiner{
+  padding: 20px;
+}
+.encrypt{
+  width: 400px;
+  height: 100px;
+}
+textarea{
+  margin: 30px;
+}
+
