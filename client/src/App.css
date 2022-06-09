@@ -23,18 +23,26 @@
   color: #09d3ac;
 }
 .nav{
-  background-color: #06122a;
+  background-color: transparent;
   padding: 10px;
   color: aliceblue;
 }
 .title{
   font-family: 'Rajdhani', sans-serif;
+  color: white;
+  
+}
+.title1{
+  font-family: 'Rajdhani', sans-serif;
+  color: white;
+  padding: 20px;
+  
 }
 .body{
   background-color: #0a0f1896;
   padding: 10px;
-  height: auto;
-  background-image: url("./17973908.jpg");
+  height: 1450px;
+  background-image: url("./biometrics-7119387_1920.jpg");
   background-position: center;
   background-size:cover;
   font-family: 'Rajdhani', sans-serif;
@@ -48,20 +56,21 @@
 }
 .inputKey{
   margin: 30px;
-  border:3px solid #061533;
+  border:3px solid #062b30;
   width: 350px;
   height: 30px;
   background-color: transparent;
   
 }
 .mainContainer{
-  background: rgba(204, 201, 220, 0.444);
+  background: rgba(73, 95, 97, 0.825);
   border-radius: 10px;
   box-shadow: 0 4px 30px rgba(0, 0, 0, 0.2);
   backdrop-filter: blur(4px);
   -webkit-backdrop-filter: blur(5px);
   width: 90%;
   margin: auto;
+  
 
 }
 
@@ -76,10 +85,11 @@ label{
 
 .button{
   padding: 10px;
-  background-color: #06122a;
+  background-color: #062e33;
   color: white;
   font-family: 'Rajdhani', sans-serif;
   margin: 30px;
+  color: white;
   
 }
 .bottomConteiner{
@@ -92,4 +102,30 @@ label{
 textarea{
   margin: 30px;
 }
+p{
+  color: white;
+}
 
+input{
+  color: white;
+}
+label{
+  color: white;
+}
+textarea{
+  background-color: transparent;
+  border: 3px solid #062b30;
+
+}
+hr{
+  height: 2px;
+  background-color: #062b3046;
+  border: none;
+}
+
+a{
+ 
+  color: #062b30;
+  font-size: 30px;
+  font-weight: 800;
+}
