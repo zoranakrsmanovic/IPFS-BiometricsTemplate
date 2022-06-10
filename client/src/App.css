@@ -63,7 +63,8 @@
   
 }
 .mainContainer{
-  background: rgba(73, 95, 97, 0.825);
+  
+  background: rgba(71, 86, 81, 0.873);
   border-radius: 10px;
   box-shadow: 0 4px 30px rgba(0, 0, 0, 0.2);
   backdrop-filter: blur(4px);
@@ -115,6 +116,7 @@ label{
 textarea{
   background-color: transparent;
   border: 3px solid #062b30;
+  color: white;
 
 }
 hr{
